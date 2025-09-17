@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy SUBHWEI!
+# 👋 ¡Hola, soy JULIAN!
 
 ¡Bienvenido/a a mi perfil de GitHub!  
 Soy estudiante de **Ingeniería en Sistemas** con una gran pasión por aprender todos los lenguajes de programación que pueda (¡aunque todavía no sea experto, el entusiasmo nunca falta!).
